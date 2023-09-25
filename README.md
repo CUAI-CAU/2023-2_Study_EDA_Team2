@@ -1,2 +1,5 @@
 # 2023-2_Study_EDA_Team2
-데이터 분석 및 EDA 2팀 스터디 저장소입니다.
+
+1️⃣ 공부 : [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214/joinLectures/25076) -> 이번 학기 끝내기<br>
+2️⃣ 진행방법 : 월요일 16시 비대면 & [Notion]
+
